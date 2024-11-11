@@ -6,7 +6,7 @@ This is the jobs listing project from the [YouTube crash course](https://www.you
 
 ## Usage
 
-This project uses Coingecko API
+This project uses Outfit Google Font, Coingecko API
 
 ### Install Dependencies
 
